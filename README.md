@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, sou o Vinicius Rissi 🚀
 
-<!--
-**v-rissi/v-rissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Bacharel em Economia | Atuando com Automação de Processos e Dados**
 
-Here are some ideas to get you started:
+Atualmente trabalho como Assistente Administrativo, onde utilizo Python e VBA para transformar tarefas manuais em rotinas automatizadas. Meu foco é aplicar tecnologia para resolver problemas práticos de gestão e finanças.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ O que eu desenvolvo hoje:
+- **Automação de Rotinas:** Criação de scripts em Python (Selenium e Pandas) para coleta e processamento de dados.
+- **Ganhos de Eficiência:** Implementação de ferramentas que reduziram o tempo de execução em processos fiscais (95%) e comerciais (75%).
+- **Análise de Dados:** Construção de controles em Excel e início de projetos em Power BI e SQL.
+
+### 🎯 Objetivos e Estudos:
+- 📖 **Certificação:** Em preparação para a **C-PRO I (ANBIMA)**.
+- 🎓 **Capacitação:** Cursando a trilha de dados da Hashtag Treinamentos (Python, SQL, BI).
+- 💼 **Foco:** Evolução para posições de Analista Júnior em BI, Analytics ou FP&A.
+
+---
+[LinkedIn](https://www.linkedin.com/in/vinicius-rissi) | [E-mail](mailto:vinicius.amrissi@gmail.com)
